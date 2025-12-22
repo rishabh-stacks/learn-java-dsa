@@ -12,7 +12,7 @@ This Repository contains the Codes and Solutions as I progress through a Rigorou
 The Goal is to Build a Rock-Solid Foundation in Computer Science Fundamentals before moving to Backend Development.
 
 
-🚀 **FULL DESCRIPTION**
+☕  **FULL DESCRIPTION**
 ---
 Introduction to Programming & Flowcharts. 
 Java Architecture, Installation, & Debugging. 
