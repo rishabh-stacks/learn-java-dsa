@@ -1,5 +1,6 @@
 # learn-java-dsa
-A Comprehensive Roadmap and Codebase for Mastering Java and Data Structures &amp; Algorithms. From "Hello World" to Advanced Graph Theory.
+A Comprehensive Roadmap and Codebase for Mastering Java and Data Structures &amp; Algorithms. 
+From "Hello World" to Advanced Graph Theory.
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![DSA](https://img.shields.io/badge/DSA-Data%20Structures%20%26%20Algorithms-blue?style=for-the-badge)
@@ -50,7 +51,7 @@ Disjoint Set (Union-Find).
 
 
 🛠️ **Tech Stack & Tools**
-
+---
 - Language: Java (JDK 17+)
 - IDE: IntelliJ IDEA / VS Code
 - Version Control: Git & GitHub
