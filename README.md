@@ -13,7 +13,7 @@ The Goal is to Build a Rock-Solid Foundation in Computer Science Fundamentals be
 
 
 🚀 **FULL DESCRIPTION**
-
+---
 Introduction to Programming & Flowcharts. 
 Java Architecture, Installation, & Debugging. 
 Primitive Data Types, I/O, & Type Casting. 
