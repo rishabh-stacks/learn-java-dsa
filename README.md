@@ -93,13 +93,3 @@ The Curriculum is divided into 5 Progressive Levels.
 3.  **Navigate** to the `src` folder to find topic-wise packages.
 4.  **Run** the `Main.java` file within any specific package to test the code.
 
----
-
-## 📬 Connect
-
-Follow my progress and check out my other work!
-
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/your-username)
-
----
-*Created with ☕ and Code.*
