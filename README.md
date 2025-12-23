@@ -1,57 +1,105 @@
-# learn-java-dsa
-A Comprehensive Roadmap and Codebase for Mastering Java and Data Structures &amp; Algorithms. 
-From "Hello World" to Advanced Graph Theory.
+# ☕ Learn Java DSA: Master the Fundamentals
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![DSA](https://img.shields.io/badge/DSA-Data%20Structures%20%26%20Algorithms-blue?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-JDK_17%2B-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![DSA](https://img.shields.io/badge/Focus-Data_Structures_%26_Algorithms-blue?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
+![Status](https://img.shields.io/badge/Status-In_Progress-yellow?style=for-the-badge)
 
-Welcome to my learning repository! 
+> **A Comprehensive Roadmap and Codebase from "Hello World" to Advanced Graph Theory.**
 
-This Repository contains the Codes and Solutions as I progress through a Rigorous Plan to Master Java Development and Data Structures & Algorithms.
-The Goal is to Build a Rock-Solid Foundation in Computer Science Fundamentals before moving to Backend Development.
+## 📖 About The Repository
 
+Welcome to my Learning Hub! 🚀
 
-☕  **FULL DESCRIPTION**
+This Repository Documents my Rigorous Journey to Master **Java Development** and **Data Structures & Algorithms (DSA)**.
+The Goal is to Build a Rock-Solid Foundation in Computer Science Fundamentals before Transitioning into High-Level Backend Development.
+
+Each package corresponds to a specific Topic, containing well-Commented Code and Algorithmic Solutions.
+
 ---
-Introduction to Programming & Flowcharts. 
-Java Architecture, Installation, & Debugging. 
-Primitive Data Types, I/O, & Type Casting. 
-Conditionals, Loops & Switch Statements. 
-Functions / Methods (Scopes, Shadowing, VarArgs). 
-Arrays and ArrayLists (Internal working). 
-Linear Search. 
-Binary Search (Iterative & Recursive). 
 
-Sorting Algorithms (Bubble, Selection, Insertion, Cyclic). 
-Strings & StringBuilder. 
-Math for DSA (Bit Manipulation, Number Theory). 
-Recursion (Subsets, Permutations, N-Queens, Maze Problems). 
-Object Oriented Programming (OOP).  
-Linked Lists (Singly, Doubly, Circular). 
-Stacks & Queues. 
-Project: Tic-Tac-Toe Game. 
+## 🗺️ The Learning Roadmap
 
-Trees (Binary Trees, BST, Traversals). 
-AVL Trees (Self-Balancing Trees). 
-Segment Trees (Range Queries). 
-Large Data Handling (BigInteger, BigDecimal, File Handling). 
-Heaps & Priority Queues (Heap Sort). 
-HashMap & HashTable. 
-Advanced Sorting (Count Sort, Radix Sort). 
-Greedy Algorithms (Huffman Coding). 
+The Curriculum is divided into 5 Progressive Levels.
 
-Graph Representation (Adjacency Matrix/List). 
-Traversals (BFS, DFS). 
-Detection (Directed & Undirected). 
-Topological Sort (Kahn's Algorithm). 
-Shortest Path Algorithms. 
-Minimum Spanning Trees (Prim's & Kruskal's). 
-Disjoint Set (Union-Find). 
+### 🔹 Level 1: Java Core & Foundations
+*Focus: Syntax, Logic, and Flow Control*
+- [x] Introduction to Programming & Flowcharts
+- [x] Java Architecture, Installation, & Debugging
+- [x] Primitive Data Types, I/O, & Type Casting
+- [x] Conditionals, Loops & Switch Statements
+- [x] Functions / Methods (Scopes, Shadowing, VarArgs)
 
+### 🔹 Level 2: Arrays, Searching & Basic Sorting
+*Focus: Data Manipulation and Basic Algorithms*
+- [ ] Arrays and ArrayLists (Internal working)
+- [ ] **Linear Search**
+- [ ] **Binary Search** (Iterative & Recursive)
+- [ ] **Sorting Algorithms:**
+  - Bubble Sort
+  - Selection Sort
+  - Insertion Sort
+  - Cyclic Sort
 
-🛠️ **Tech Stack & Tools**
+### 🔹 Level 3: Intermediate DSA & Recursion
+*Focus: Logic Building and Linear Data Structures*
+- [ ] Strings & StringBuilder
+- [ ] **Math for DSA** (Bit Manipulation, Number Theory)
+- [ ] **Recursion** (Subsets, Permutations, N-Queens, Maze Problems)
+- [ ] **Object Oriented Programming (OOP)**
+- [ ] Linked Lists (Singly, Doubly, Circular)
+- [ ] Stacks & Queues
+- [ ] 🎮 **Mini-Project:** *Tic-Tac-Toe Game*
+
+### 🔹 Level 4: Trees, Heaps & Hashing
+*Focus: Hierarchical Data Structures and Efficiency*
+- [ ] **Trees:** Binary Trees, BST, Traversals
+- [ ] **AVL Trees** (Self-Balancing)
+- [ ] **Segment Trees** (Range Queries)
+- [ ] Large Data Handling (BigInteger, BigDecimal)
+- [ ] **Heaps** & Priority Queues (Heap Sort)
+- [ ] HashMap & HashTable
+- [ ] **Advanced Sorting:** Count Sort, Radix Sort
+- [ ] **Greedy Algorithms:** Huffman Coding
+
+### 🔹 Level 5: The Graph Theory
+*Focus: Complex Relationships and Network Algorithms*
+- [ ] **Graph Representation:** Adjacency Matrix/List
+- [ ] **Traversals:** BFS, DFS
+- [ ] Cycle Detection (Directed & Undirected)
+- [ ] **Topological Sort** (Kahn's Algorithm)
+- [ ] **Shortest Path Algorithms** (Dijkstra, Bellman-Ford)
+- [ ] **Minimum Spanning Trees** (Prim's & Kruskal's)
+- [ ] Disjoint Set (Union-Find)
+
 ---
-- Language: Java (JDK 17+)
-- IDE: IntelliJ IDEA / VS Code
-- Version Control: Git & GitHub
+
+## 🛠️ Tech Stack & Tools
+
+| Category | Technologies |
+| :--- | :--- |
+| **Language** | ![Java](https://img.shields.io/badge/-Java_JDK_17+-black?style=flat-square&logo=openjdk) |
+| **IDEs** | ![IntelliJ](https://img.shields.io/badge/-IntelliJ_IDEA-black?style=flat-square&logo=intellij-idea) ![VS Code](https://img.shields.io/badge/-VS_Code-black?style=flat-square&logo=visual-studio-code) |
+| **Version Control** | ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github) |
+
+---
+
+## 🚀 How to Run
+
+1.  **Clone the repository**
+    ```bash
+    git clone [https://github.com/your-username/learn-java-dsa.git](https://github.com/your-username/learn-java-dsa.git)
+    ```
+2.  **Open in IntelliJ IDEA** (Recommended) or VS Code.
+3.  **Navigate** to the `src` folder to find topic-wise packages.
+4.  **Run** the `Main.java` file within any specific package to test the code.
+
+---
+
+## 📬 Connect
+
+Follow my progress and check out my other work!
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/your-username)
+
+---
+*Created with ☕ and Code.*
