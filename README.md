@@ -15,7 +15,7 @@
 
 - [ABOUT](#about)
 - [TECH STACK ](#tech-stack)
-- CURRICULUM
+- **CURRICULUM**
   - [1️⃣ Foundations](#phase-1)
   - [2️⃣ Algorithms](#phase-2)
   - [3️⃣ Java Core I — OOP](#phase-3)
