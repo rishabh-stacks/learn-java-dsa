@@ -35,7 +35,7 @@ A self-paced Learning through **Core Java ; Data Structures ; Algorithms ; Graph
 ---
 
 <a id="tech-stack"></a>
-## 🗺️ TECH STACK
+## 📖 TECH STACK
 
 | Category | Covers |
 | --- | --- |
@@ -44,7 +44,8 @@ A self-paced Learning through **Core Java ; Data Structures ; Algorithms ; Graph
 | 🏛️ **Data Structures** | Arrays & Lists · Linked Lists · Stacks & Queues · Trees & BSTs · Heaps · HashMaps · Segment Trees |
 | 🕸️ **Graphs** | BFS & DFS · Dijkstra · Bellman-Ford · Floyd-Warshall · Prim's & Kruskal's · DSU |
 | 📐 **CS Fundamentals** | Time / Space Complexity · Math for DSA · Pattern Problems · Range Queries |
-| 🗄️ **Databases** | SQL Basics · JOINs · Subqueries · Normalization · Keys & Indexes |
+
+*These are the Concepts that are going to be covered (not including a Spring Boot bcz I have a Life)*
 
 
 ---
